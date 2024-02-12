@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Myslvent](https://github.com/Anthoowo/bis)
 
-- 🌱 I’m currently learning **unit and end-to-end testing, Go-lang**
+- 🌱 I’m currently learning **unit testing, C#**
 
 - 👯 I’m looking to collaborate on [conversaLink](https://github.com/Anthoowo/group-chatApp)
 
